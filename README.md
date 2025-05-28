@@ -19,3 +19,6 @@ Transcribe WAV audio files into text using a speech recognition model.
 - Uses Wav2Vec2 (`facebook/wav2vec2-base-960h`).
 - WAV: 16 kHz, 16-bit, mono.
 - Requires `transformers`, `torch`, `librosa`.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/98a8dc82-3c6d-4bc3-8a57-8fead3031239)
