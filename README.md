@@ -1,4 +1,4 @@
-# TEXT-SUMMARIZATION-TOOL
+# TASK 1 : TEXT-SUMMARIZATION-TOOL
 # Task 1: Text Summarization Tool
 - **Objective**: Summarize lengthy articles using the BART model from Hugging Face.
 - **Deliverable**: Python script (`Task1.py`), output file (`summary_output.txt`).
