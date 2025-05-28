@@ -10,3 +10,6 @@
 - **Notes**:
   - Summarizes a hardcoded article on remote work.
   - Requires Python 3.6+ and the `transformers` library.
+
+**OUTPUT**:
+![Image](https://github.com/user-attachments/assets/c6815231-4e23-44c4-b5b2-0937a24a00d4)
