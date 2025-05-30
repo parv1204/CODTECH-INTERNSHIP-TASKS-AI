@@ -10,3 +10,6 @@
   - Uses VGG19 for feature extraction.
   - Images: JPEG, resized to 256x256.
   - Requires `torch`, `torchvision`, `pillow`, `matplotlib`.
+
+  **OUTPUT** :
+  ![Image](https://github.com/user-attachments/assets/9343f94c-edf4-4430-bd60-e21444707d3b)
