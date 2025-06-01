@@ -1,11 +1,11 @@
-*Company Name* : CodTech IT Solutions
+**Company Name** : CodTech IT Solutions
 
-*Name* : Parv Sharma
+**Name** : Parv Sharma
 
-*Intern ID* : CT06DN738
+**Intern ID** : CT06DN738
 
-*Domain* : Artificial Intelligence
+**Domain** : Artificial Intelligence
 
-*Duration* : 6 weeks
+**Duration** : 6 weeks
 
-*Mentor* : Neela Santosh
+**Mentor** : Neela Santosh
